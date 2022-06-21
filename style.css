@@ -1,0 +1,36 @@
+body{
+    background-color: #C9F600;
+    color: #6F8703
+    font-size: 16px;
+    font-family: sans-serif;
+}
+header{
+    background-image:url("https://scontent-frt3-2.xx.fbcdn.net/v/t1.6435-9/102699229_137842161258603_2700191083907008859_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=9267fe&_nc_ohc=iJT93mudBBAAX8N5c_A&_nc_ht=scontent-frt3-2.xx&oh=00_AT_B6HdLxcSXBaWsa8wgPP4SVKU0RyMs-AtJH9XgZwbNsw&oe=62D80DE6")
+    height: 25%;
+}
+header h1{
+    text-align: center;
+    font-size: 50px;
+    padding: 10px;
+    color:white
+}
+main{
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+nav a{
+    text-decoration: none;
+    border-radius: 20px;
+    background-color: darkgreen;
+    color: white;
+    padding: 10px;
+}
+nav{
+    display: flex;
+    margin: 20px;
+}
+footer{
+    background-color: lightgreen;
+}
